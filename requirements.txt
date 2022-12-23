@@ -1,3 +1,14 @@
+loguru
+pytest
+requests
+p2pnetwork
+pycryptodome
 flask
-redis
-gunicorn
+flask_classful
+waitress
+python-dotenv
+pytest-asyncio
+jsonpickle
+matplotlib
+# ray # currently not working on python3.9
+gputil
